@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Welcome to Mickey's Blog"
-tagline: Geek Programmer 
 ---
 {% include JB/setup %}
 
